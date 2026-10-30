@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path
+    d="M17.5,9.074 C17.5,12.156 12.813,18.333 10,18.333 C7.188,18.333 2.5,12.156 2.5,9.074 C2.5,4.983 5.858,1.667 10,1.667 C14.142,1.667 17.5,4.983 17.5,9.074 Z"
+    stroke="#919093"
+    stroke-opacity="0.698"
+    stroke-width="1.5"
+    stroke-linejoin="round"
+  />
+  <ellipse
+    cx="10"
+    cy="9.167"
+    rx="2.5"
+    ry="2.5"
+    stroke="#919093"
+    stroke-opacity="0.698"
+    stroke-width="1.5"
+  />
+</svg>
